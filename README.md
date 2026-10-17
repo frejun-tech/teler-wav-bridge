@@ -1,6 +1,6 @@
 # Teler WAV Bridge
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white) [![Teler Docs](https://img.shields.io/badge/Teler-Docs-0A66C2)](https://frejun.com/docs/teler/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/download) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white) [![Teler Docs](https://img.shields.io/badge/Teler-Docs-0A66C2)](https://frejun.com/docs/teler/)
 
 A reference implementation demonstrating how to stream a pre-recorded WAV file to a live phone call using Teler's Media Streaming Bridge over WebSockets, while recording and collecting the caller's responses.
 
@@ -8,7 +8,7 @@ A reference implementation demonstrating how to stream a pre-recorded WAV file t
 
 Teler is a programmable voice API by FreJun. It handles telephony infrastructure, phone numbers, call routing, and real-time audio streaming, allowing developers to build custom voice workflows directly on phone calls.
 
-Learn more at [FreJun-Teler](https://frejun.com/teler/)
+Learn more at https://frejun.com/teler/
 
 ---
 
